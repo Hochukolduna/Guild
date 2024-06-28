@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import Modal from "D:/Trash/coursework-Gubin/guild-cheresnya/src/components/modal/modal.js";
+import Modal from "/workspaces/Guild/src/components/modal/modal.js";
 import '../reviewData/reviewLook.css'
 
 const RewData = [

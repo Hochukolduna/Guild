@@ -1,4 +1,4 @@
-import 'D:/Trash/coursework-Gubin/guild-cheresnya/src/components/footer/footer-styles.css';
+import '/workspaces/Guild/src/components/footer/footer-styles.css';
 export default () => {
     return (
     <div className='main-footer'>

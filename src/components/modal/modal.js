@@ -1,5 +1,5 @@
 import React from "react";
-import "D:/Trash/coursework-Gubin/guild-cheresnya/src/components/modal/modal.css";
+import "/workspaces/Guild/src/components/modal/modal.css";
 
 const Modal = ({active, setActive, image, name, obzor, grade, who, date, children}) => {
     return (

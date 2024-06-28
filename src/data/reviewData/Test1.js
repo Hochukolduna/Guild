@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import Modal from "D:/Trash/coursework-Gubin/guild-cheresnya/src/components/modal/modal.js";
-import Rev from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/data/reviewData/reviewData.js'
-import "D:/Trash/coursework-Gubin/guild-cheresnya/src/components/modal/modal.css";
+import Modal from "/workspaces/Guild/src/components/modal/modal.js";
+import Rev from '/workspaces/Guild/src/data/reviewData/reviewData.js'
+import "/workspaces/Guild/src/components/modal/modal.css";
 
 export default () => {
     const [modalActive, setModalActive] = useState(false);

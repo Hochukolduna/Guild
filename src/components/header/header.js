@@ -1,10 +1,10 @@
-import 'D:/Trash/coursework-Gubin/guild-cheresnya/src/components/header/header-styles.css';
+import '/workspaces/Guild/src/components/header/header-styles.css';
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import Main from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/pages/Main.js';
-import News from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/pages/News.js';
-import Reviews from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/pages/Reviews.js';
-import Wiki from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/pages/Wiki.js';
-import Profile from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/pages/Profile.js';
+import Main from '/workspaces/Guild/src/pages/Main.js';
+import News from '/workspaces/Guild/src/pages/News.js';
+import Reviews from '/workspaces/Guild/src/pages/Reviews.js';
+import Wiki from '/workspaces/Guild/src/pages/Wiki.js';
+import Profile from '/workspaces/Guild/src/pages/Profile.js';
 
 export default () => {
     return (

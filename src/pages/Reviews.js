@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import 'D:/Trash/coursework-Gubin/guild-cheresnya/src/pages/Reviews.css';
-import Test1 from 'D:/Trash/coursework-Gubin/guild-cheresnya/src/data/reviewData/Test1'
+import '/workspaces/Guild/src/pages/Reviews.css';
+import Test1 from '/workspaces/Guild/src/data/reviewData/Test1.js'
 
 export default class Reviews extends Component {
     render() {
