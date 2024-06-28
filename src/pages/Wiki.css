@@ -1,0 +1,32 @@
+.wha {
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 1100px;
+}
+.TwoParts {
+    margin-top: 2rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.LeftPart {
+    background-color: #332F1F;
+    border-radius: 25px 0 0 0;
+    width: 250px;
+    height: 700px;
+}
+.RightPart {
+    border-radius: 0px 25px 0px 0px;
+    background-color: #3F342E;
+    width: 850px;
+    height: 700px;
+}
+.LeftPart img{
+    margin-top: 2rem;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}

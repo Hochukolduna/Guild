@@ -1,0 +1,23 @@
+.News {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    margin-bottom: 2rem;
+}
+.News img {
+    width: 800px;
+    border-radius: 25px;
+    height: auto;
+}
+.TXT {
+    margin-top: 1rem;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+.BoringInf {
+    margin-top: 1rem;
+    font-size: 20px;
+    justify-content: space-around;
+    display: flex;
+}

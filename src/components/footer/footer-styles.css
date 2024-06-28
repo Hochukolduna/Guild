@@ -1,0 +1,16 @@
+.main-footer {
+    color: white;
+    background-color: black;
+    padding-bottom: 0;
+    bottom: 0;
+    height: auto;
+    width: 99vw;
+}
+.Title img{
+    margin-top: 3rem;
+    border-radius: 0;
+    bottom: 0;
+    height: auto;
+    width: 14vw;
+    margin-bottom: 3rem;
+}

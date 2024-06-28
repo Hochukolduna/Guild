@@ -1,0 +1,40 @@
+.backside {
+  background: #3F342E;
+padding-top: 3rem;
+padding-bottom: 5rem;
+border-radius: 20px;
+margin-top: 3rem;
+margin-bottom: 3rem;
+margin-left: auto;
+margin-right: auto;
+width: 1800px;
+height: auto;
+
+}
+.Rew img {
+  height: 100px;
+  width: 200px;
+  margin: 4rem 2rem 0rem 2rem;
+  border-radius: 20px;
+}
+.Rew button{
+  margin-bottom: 1rem;
+  background-color: #705434;
+  outline: none;
+  color: white;
+  font-size: 18px;
+  border-radius: 20px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding-bottom: 1rem;
+  border: none;
+  transition:0.3s;
+  cursor: pointer;
+}
+.Rew button:hover{
+  transform: scale(1.1);
+}
+image {
+  height: auto;
+  width: 20vw;
+}
